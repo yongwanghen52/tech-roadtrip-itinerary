@@ -1,0 +1,4 @@
+Location,Latitude,Longitude,TravelTimeToMicrosoft,TravelTimeToGoogle,TravelTimeToApple
+Microsoft,47.6458093,-122.1319698,0,793,796
+Google,37.4220541,-122.0853242,793,0,19
+Apple,37.3346438,-122.0089720,796,19,0
